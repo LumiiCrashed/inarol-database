@@ -28,8 +28,8 @@ configuration:
       dark: "#f5e0dc"
       secondary: "#f5e0dc"
       tertiary: "#eba0ac"
-      highlight: "transparent"
-      textHighlight: "transparent"
+      highlight: "#31324400"
+      textHighlight: "#31324400"
     darkMode:
       light: "#181825"
       lightgray: "#313244"
@@ -38,8 +38,8 @@ configuration:
       dark: "#f5e0dc"
       secondary: "#f5e0dc"
       tertiary: "#eba0ac"
-      highlight: "transparent"
-      textHighlight: "transparent"
+      highlight: "#31324400"
+      textHighlight: "#31324400"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
