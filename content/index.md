@@ -1,5 +1,20 @@
 ---
 title: InaRol Database
 ---
+# ***Bienvenido al Índice de la Base de Datos del Inarol. Esta página sirve como hipervínculo entre las diferentes secciones de la misma.***
 
-This file has been created automatically by GitHub Publish plugin. Quartz expects a 'index.md' at the top level to render the home page of your site, feel free to edit the title and write your content!
+## La Resistencia
+###### [[Jugadores de La Resistencia]]
+###### [[[Trabajadores de la Resistencia.]]]
+
+
+
+## Fallen Order
+###### [[Fallen Order]]
+
+
+## Misceláneo
+###### [[Tablas del Mundial de Clubes]]
+###### [[Mercado de Fichajes]]
+
+
