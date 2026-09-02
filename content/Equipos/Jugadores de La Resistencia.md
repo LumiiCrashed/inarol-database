@@ -1,0 +1,52 @@
+---
+dg-publish: true
+dg-home: true
+title: Jugadores de La Resistencia
+---
+
+Lista de jugadores de La Resistencia por dorsal.
+
+1) [[Levin Eldheim ⭐]]
+2) [[Adam Khaslana ⭐]]
+3) [[Alessandro Valeri ⭐]]
+4) [[Atlas Miyara ⭐]]
+5) [[Anton Gauss]]
+6) [[Maya Blythe]]
+7) [[Lucius Cage]]
+8) [[Rose Dorn]]
+9) [[Luke Storm ⭐]]
+10) [[Cassia Augusta ⭐]]
+11) [[Arthur Athanon ⭐]]
+12)  [[Isabela (Bela) Moreira]]
+13) [[Lucy Goodchain]]
+14) [[Ludwig Neumann ⭐]]
+15) [[Blake Highward]]
+16) [[Nil Herrero⭐]]
+17) [[David Gradsmith]]
+18) [[Harmony Aurias ⭐]]
+19) [[Galbren Bloodstone]]
+20) [[Cassiopea Dawnford ⭐]]
+21) [[Camael Goldenwind]]
+22) [[Abril Domínguez]]
+23) [[Fressia Lunarbreath]]
+24) [[Ness Starfall]]
+25) [[Noa Fletcher]]
+26) [[Gwen Blades]]
+27) [[Caleb Lawson]]
+28) [[Mateus Guerreiro ⭐]]
+29) [[Enzo Santoro]]
+30) [[Thiago Armando ⭐]]
+31) [[Coral Marlow]]
+32) [[Mireia Flors]]
+33) [[Neria Shadorai]]
+34) [[Yvette Koné]]
+35) [[Enoc Vigilis]]
+36) [[Mamadou Koumba]]
+37) [[Juan Rumayor]]
+38) MCD Chai
+39) [[Silas Grandfire]]
+40) [[Rocío (Roc) Featherfly]]
+41) [[Zhial Cruz]]
+42) [[Vanja Dragović]]
+43) [[Oliver Therion]]
+44) [[Rem Nightwing]]
