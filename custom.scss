@@ -1,10 +1,13 @@
 // ---------------------------------------------------------------------
-// quartz/styles/custom.scss
+// custom.scss
 //
-// Loads after base.scss, so anything here overrides the default theme.
-// Scoped to `article` (the note body) so the sidebar / explorer / graph
-// UI are left untouched.
+// This is Quartz's actual entry stylesheet — its build imports this file
+// directly, so it must pull in the base styles itself before adding
+// overrides. Scoped to `article` (the note body) so the sidebar /
+// explorer / graph UI are left untouched.
 // ---------------------------------------------------------------------
+
+@use "base";
 
 article {
   // Page title (h1) — e.g. "Grupo A del Mundial de Clubes"
@@ -19,20 +22,27 @@ article {
   }
 
   // Wikilinks, cross-references, tags and external links in the note body.
-  // Explicitly resets background/padding so links read as colored,
-  // underlined text rather than a highlighted "chip".
+  // !important is needed here: the active theme styles internal links with
+  // a more specific selector (e.g. a.internal), which otherwise wins over
+  // a plain `a` rule regardless of load order. Covers background,
+  // box-shadow, border and outline in case the "highlighted" look comes
+  // from any of those rather than background-color alone.
   a {
-    color: #c2b95a;
-    background: none;
-    padding: 0;
-    border-radius: 0;
-    text-decoration: underline;
-    text-decoration-color: #c2b95a;
-    text-underline-offset: 2px;
+    color: #c2b95a !important;
+    text-decoration: underline !important;
+    text-decoration-color: #c2b95a !important;
+    text-underline-offset: 2px !important;
+    background: none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    outline: none !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
 
     &:hover {
-      color: #dcd58a;
-      text-decoration-color: #dcd58a;
+      color: #dcd58a !important;
+      text-decoration-color: #dcd58a !important;
     }
   }
 
