@@ -5,7 +5,7 @@ title: InaRol Database
 
 ## La Resistencia
 ###### [[Jugadores de La Resistencia]]
-###### [[[Trabajadores de la Resistencia.]]]
+###### [[Trabajadores de la Resistencia.]]
 
 
 
