@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Camael Goldenwind
----
-
-![[Camael S3.jpg|200]]
+## Información Personal:
 
 ***El joven diamante en bruto nipón empieza a brillar lustrosamente tras su triunfo mundialista, logrando pulir sus armas y desarrolar otras nuevas básicas que no poseía con anterioridad... El esfuerzo gana al talento hasta que el talento se esfuerza, y él fue bendecido con talento divino.***
 
@@ -15,12 +10,12 @@ title: Camael Goldenwind
 **Equipos:** [[Manchester City]]
 **Nacionalidad:** Japonesa
 **Talento:** Beatificado (+ Regate al receptor de su pase)
- 
+## Información de Futbolista:
+
 **Espíritu Guerrero:** Ninguno
 **Afinidad de Espíritu Guerrero:** Ninguno
 **Técnica de EG:** Ninguno
 **Técnica de Armadura:** Ninguno
-
 
 **Supertécnicas Individuales:**
 - Halo Celestial (Defensa, Bosque)
@@ -34,3 +29,8 @@ title: Camael Goldenwind
 
 **Supertácticas Propias:**
 - Virtuoso Volcánico (Ofensiva): Combina la batuta del Virtuoso con el fuego del un volcán para dirigir los pases hacia la victoria. La realiza junto a [[Adam Khaslana ⭐]]
+
+## Atuendos:
+
+Ropa Casual
+![[Camael S3.jpg|200]]
