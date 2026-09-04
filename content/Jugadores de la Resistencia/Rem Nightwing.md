@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Rem Nightwing
----
-
-![[Rem S3.jpg|200]]
+## Información Personal:
 
 
 ***DESCRIPCIÓN***
@@ -16,6 +11,8 @@ title: Rem Nightwing
 **Equipos:** [[VfB Stuttgart]]
 **Nacionalidad:** Holandesa, Inglesa
 **Talento:** Ninguno
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Guardián Onírico, Sandman \[[[Espíritu Artificial]], Segunda Generación]
 **Afinidad de Espíritu Guerrero:** Aire
@@ -33,3 +30,8 @@ title: Rem Nightwing
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Casual
+![[Rem S3.jpg|200]]

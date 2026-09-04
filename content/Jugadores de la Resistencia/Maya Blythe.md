@@ -1,9 +1,5 @@
----
-dg-publish: true
-title: Maya Blythe
----
+## Información Personal:
 
-![[Maya S3.jpg||200]]
 **Edad:** 21
 **Altura:** 1.81m
 **Posición:** Pivote / Lateral Izquierdo / Defensa Central
@@ -12,6 +8,8 @@ title: Maya Blythe
 **Equipos:** [[Bayer Leverkusen]]
 **Nacionalidad:** Japonesa
 **Talento:** Ninguno
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Ninguno
 **Afinidad de Espíritu Guerrero:** Ninguno
@@ -28,3 +26,8 @@ title: Maya Blythe
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Formal
+![[Maya S3.jpg||200]]

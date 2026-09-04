@@ -1,7 +1,3 @@
----
-dg-publish: true
-title: Golden Void
----
 
 ![[Golden Void..jpg]]
 

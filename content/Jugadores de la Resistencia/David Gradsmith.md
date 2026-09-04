@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: David Gradsmith
----
-
-![[David S3.jpg|200]]
+## Información Personal:
 
 ***Arranca por la izquierda el genio del fútbol mundial... Pensaríais que un gran regateador joven tendría mil ofertas, pero no es el caso. A pesar de acabar las temporadas como uno de los máximos regateadores de las cinco grandes ligas, tiene la maldición de acabar siendo opacado por jugadores con highlights más vistosos que el suyo.***
 
@@ -21,6 +16,7 @@ title: David Gradsmith
 **Técnica de EG:** Garra de Vibranium (Regate)
 **Técnica de Armadura:** ???
 
+## Información de Futbolista:
 
 **Supertécnicas Individuales:**
 - Arranque Alumínico G5 (Regate, Montaña)
@@ -35,3 +31,7 @@ title: David Gradsmith
 **Supertácticas Propias:**
 - Ninguna.
 
+## Atuendos:
+
+Ropa Casual
+![[David S3.jpg|200]]

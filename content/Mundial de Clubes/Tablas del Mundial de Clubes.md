@@ -1,8 +1,3 @@
----
-dg-publish: true
-title: Tablas del Mundial de Clubes
----
-
 ### Fase de Grupos del Mundial de Clubes
 
 #### [[Grupo A del Mundial de Clubes]] (Barcelona)

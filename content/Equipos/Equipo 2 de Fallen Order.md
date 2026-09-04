@@ -1,8 +1,3 @@
----
-dg-publish: true
-title: Equipo 2 de Fallen Order
----
-
 ## ***EQUIPO DE FALLEN ORDER.***
 
 ## Jugadores:

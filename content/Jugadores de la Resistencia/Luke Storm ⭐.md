@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Luke Storm ⭐
----
-
-![[Luke S3.jpg|200]]
+## Información Personal:
 
 ***El ariete estrella de Japón se ha hecho con un espacio en un Manchester United en reconstrucción. En Inglaterra lo consideran el sucesor de Hans Wolf.  Por sus tiros tan salvajes como potentes se ganó el apodo de "Wolverine".***
 
@@ -15,6 +10,8 @@ title: Luke Storm ⭐
 **Equipos:** [[Manchester United]]
 **Nacionalidad:** Japonesa
 **Talento:** La calma antes de la Tormenta (+ poder al final de los partidos)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Bestia del Ragnarok, Fenrir
 **Afinidad de Espíritu Guerrero:** Bosque
@@ -36,3 +33,8 @@ title: Luke Storm ⭐
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Estándar
+![[Luke S3.jpg|200]]

@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Neria Shadorai
----
-
-![[Neria S3.jpg||200]]
+## Información Personal:
 
 ***Apodada La Última Samurái, esta jugadora japonesa ha tomado el mundo de la moda por sorpresa con sus atrevido sentido de la estética, combinando patrones clásicos japoneses con signos místicos y formas modernas e incluso futuristas; sobre todo fuera del campo. Marca tendencia... quizá porque ya sabe de antemano qué diseños serán un éxito.***
 
@@ -15,6 +10,8 @@ title: Neria Shadorai
 **Equipos:** [[VfB Stuttgart]]
 **Nacionalidad:** Japonesa
 **Talento:** Samurái Lunar (+ Poder contra Luz y Sombras.)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Ninja Mística, Mairiyia
 **Afinidad de Espíritu Guerrero:** Bosque
@@ -33,3 +30,11 @@ title: Neria Shadorai
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa de Modelo (Busto)
+![[Neria S3.jpg||200]]
+
+Ropa de Modelo (Cuerpo Completo)
+![[Neria S3 (Cuerpo Completo).png|200]]

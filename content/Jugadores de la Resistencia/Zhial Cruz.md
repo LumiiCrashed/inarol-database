@@ -2,8 +2,7 @@
 dg-publish: true
 title: Zhial Cruz
 ---
-
-![[Zhial S3.jpg|200]]
+## Información Personal:
 
 ***Una cosmopolita rebelde que no termina de encajar en ningún lugar, y que solo se deja dominar por Rose. A pesar de su corta altura, es una jugadora que busca el contacto y el confrontamiento cuando tiene el balón, combinándolo con su excepcional control de balón para lograr jugadas impredecibles.***
 
@@ -15,6 +14,8 @@ title: Zhial Cruz
 **Equipos:** [[Liverpool FC]]
 **Nacionalidad:** Española, Japonesa
 **Talento:** Intrafútbol (+ poder sin técnica.)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Erinia de la Locura, Alecto
 **Afinidad de Espíritu Guerrero:** Neutro
@@ -32,3 +33,8 @@ title: Zhial Cruz
 
 **Supertácticas Propias:**
 - Ninguna.
+
+## Atuendos:
+
+Ropa Casual
+![[Zhial S3.jpg|200]]

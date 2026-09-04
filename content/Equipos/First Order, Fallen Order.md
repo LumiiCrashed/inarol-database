@@ -1,9 +1,3 @@
----
-dg-publish: true
-title: First Order, Fallen Order
----
-
-
 ## ***EQUIPO DE FALLEN ORDER.***
 
 ## Jugadores:

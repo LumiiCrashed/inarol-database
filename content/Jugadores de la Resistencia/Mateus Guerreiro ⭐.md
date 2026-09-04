@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Mateus Guerreiro ⭐
----
-
-![[Mateus S3.jpg|200]]
+## Información Personal:
 
 ***Todos en pie, el Comandante ha llegado a Madrid. Un jugador con un ego que solamente es superado por su ética de trabajo, llegando siempre el primero a entrenar y saliendo el último. Se sometió recientemente a una cirugía para eliminar sus icónicas heridas antes de volverse el fichaje más caro de la historia.***
 
@@ -15,6 +10,8 @@ title: Mateus Guerreiro ⭐
 **Equipos:** [[Real Madrid]]
 **Nacionalidad:** Portuguesa
 **Talento:** Supersalto (+ Potencia y Duración de Salto)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Tigre del Ocaso, Byakko
 **Afinidad de Espíritu Guerrero:** Aire
@@ -32,3 +29,8 @@ title: Mateus Guerreiro ⭐
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Formal
+![[Mateus S3.jpg|200]]

@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Enoc Vigilis
----
-
-![[Enoc S3.jpg|200]]
+## Información Personal:
 
 ***Tras dejar de crecer súbitamente a los 18 años, su hasta entonces dominante físico empezó a quedarse corto para las grandes ligas. Es por eso que, ayudado por un joven entrenador español, empezó a desenvolverse más por la banda. Su actitud territorial, sin embargo, aún sigue más que presente en su fútbol.***
 
@@ -16,12 +11,13 @@ title: Enoc Vigilis
 **Nacionalidad:** Japonesa
 **Talento:** Presencia Gigante (+ Bloqueo en área pequeña.)
 
+## Información de Futbolista:
+
 **Espíritu Guerrero:** Ninguno
 **Afinidad de Espíritu Guerrero:** Ninguno
 **Técnica de EG:** Ninguno
 **Técnica de Armadura:** Ninguno
  
-
 **Supertécnicas Individuales:**
 - Muro del Diluvio G5 (Bloqueo, Aire)
 - Vitral del Vacío (Defensa, Neutro)
@@ -34,3 +30,8 @@ title: Enoc Vigilis
 
 **Supertácticas Propias:**
 - Campo de los Gigantes (Defensiva): Haz que los defensas de tu equipo se comporten como gigantes, tapando todo el campo. Roba el balón... ya que no podrán pasar. \[Aumenta su poder a más jugadores de más de 1.90m haya en el campo\]
+
+## Atuendos:
+
+Ropa Formal
+![[Enoc S3.jpg|200]]

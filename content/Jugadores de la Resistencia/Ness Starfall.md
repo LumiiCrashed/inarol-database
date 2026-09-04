@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Ness Starfall
----
-
-![[Ness S3.jpg|200]]
+## Información Personal:
 
 ***Defensor del Betis y jugador profesional de Pokémon VGC, es un defensor peculiar, del cual se dice que ve el juego como pocos. Algunos béticos lo han puteado por ser amigo de la mayor joya del Sevilla, Abril Domínguez.***
 
@@ -15,6 +10,8 @@ title: Ness Starfall
 **Equipos:** [[Real Betis]]
 **Nacionalidad:** Japonesa
 **Talento:** Golpe Crítico (Lance Crítico)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Dragón Original, Kyurem
 **Afinidad de Espíritu Guerrero:** Aire
@@ -31,3 +28,9 @@ title: Ness Starfall
 
 **Supertácticas Propias:**
  - Ninguna
+
+
+## Atuendos:
+
+Ropa Casual
+![[Ness S3.jpg|200]]

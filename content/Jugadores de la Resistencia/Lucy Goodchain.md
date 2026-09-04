@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Lucy Goodchain
----
-
-![[Lucy S3.jpg|200]]
+## Información Personal:
 
 ***Una supersticiosa guardameta que hizo suyo el acto de rezar a los Dioses de Japón antes de cada partido. Eso, sumado a su popular costumbre de salir a calentar en sujetador deportivo y pantalones del equipo en los sofocantes partidos portugueses le han otorgado popularidad en dos sectores muy distintos del Internet. A ella eso le da igual.***
 
@@ -15,6 +10,8 @@ title: Lucy Goodchain
 **Equipos:** [[FC Porto]]
 **Nacionalidad:** Japonesa
 **Talento:** Racha Divina (+ Poder tras 30 minutos sin encajar)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Kami Asesina, Izanami
 **Afinidad de Espíritu Guerrero:** Bosque
@@ -31,3 +28,9 @@ title: Lucy Goodchain
 
 **Supertácticas Propias:**
 - Ninguna
+
+
+## Atuendos:
+
+Ropa Deportiva
+![[Lucy S3.jpg|200]]

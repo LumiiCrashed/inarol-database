@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Noa Fletcher
----
-
-![[Noa S3.jpg|200]]
+## Información Personal:
 
 ***Veloz como un rayo, el joven japonés ha sido fichado en el último mercado de pases por el Celta de Vigo tras hacer una gran campaña en el SC Braga de Portugal. Su velocidad y sus centros lo vuelven un jugador a tener en cuenta.***
 
@@ -15,6 +10,8 @@ title: Noa Fletcher
 **Equipos:** [[Celta de Vigo]]
 **Nacionalidad:** Japonesa
 **Talento:** Maestro del Sprint (+ Regate en Carrera)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Ninguno
 **Afinidad de Espíritu Guerrero:** Ninguno
@@ -32,3 +29,9 @@ title: Noa Fletcher
 
 **Supertácticas Propias:**
 - Ninguna
+
+
+## Atuendos:
+
+Ropa Casual
+![[Noa S3.jpg|200]]

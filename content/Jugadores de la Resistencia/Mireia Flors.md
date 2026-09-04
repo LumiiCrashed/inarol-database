@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Mireia Flors
----
-
-![[Mireia S3.jpg|200]]
+## Información Personal:
 
 ***Esta canterana del Fútbol Club Barcelona ha mantenido desde su juventud una personalidad enigmática y casi sombría; a lo que ha unido una apariencia gótica y casi funesta. Sin embargo, quienes la conocen bien dicen que está tan llena de vida como un campo de flores.***
 
@@ -15,6 +10,8 @@ title: Mireia Flors
 **Equipos:** [[FC Barcelona]]
 **Nacionalidad:** Española
 **Talento:** Ninguno
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Flor de la Muerte, Perséfone
 **Afinidad de Espíritu Guerrero:** Bosque
@@ -31,3 +28,9 @@ title: Mireia Flors
 
 **Supertácticas Propias:**
 -  Ninguna
+
+
+## Atuendos:
+
+Ropa Formal
+![[Mireia S3.jpg|200]]

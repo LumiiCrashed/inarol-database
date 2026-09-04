@@ -1,7 +1,3 @@
----
-dg-publish: true
-title: Fallen Order
----
 
 La organización malvada que busca utilizar el poder del [[Espíritu Artificial]] para dominar el fútbol.
 

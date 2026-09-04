@@ -1,9 +1,3 @@
----
-dg-publish: true
-title: Trabajadores de la Resistencia.
----
-
-
 ### Directora General
 - [[Seraphine Blythe]]
 

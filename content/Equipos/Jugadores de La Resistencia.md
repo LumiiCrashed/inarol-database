@@ -1,9 +1,3 @@
----
-dg-publish: true
-dg-home: true
-title: Jugadores de La Resistencia
----
-
 Lista de jugadores de La Resistencia por dorsal.
 
 1) [[Levin Eldheim ⭐]]

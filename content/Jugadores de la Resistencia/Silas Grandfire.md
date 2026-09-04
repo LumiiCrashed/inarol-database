@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Silas Grandfire
----
-
-![[Silas S3.jpg|200]]
+## Información Personal:
 
 ***DESCRIPCIÓN***
 
@@ -15,6 +10,8 @@ title: Silas Grandfire
 **Equipos:** [[Aston Villa]]
 **Nacionalidad:** Alemana
 **Talento:** ???
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Heraldo Renegado, Lucifer \[[[Espíritu Artificial]], Renacido]
 **Afinidad de Espíritu Guerrero:** Fuego
@@ -31,3 +28,8 @@ title: Silas Grandfire
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Casual
+![[Silas S3.jpg|200]]

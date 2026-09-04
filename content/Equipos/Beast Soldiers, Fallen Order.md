@@ -1,8 +1,3 @@
----
-dg-publish: true
-title: Beast Soldiers, Fallen Order
----
-
 ## ***EQUIPO DE FALLEN ORDER.***
 
 ## Jugadores:

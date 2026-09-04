@@ -11,7 +11,7 @@
 **Nacionalidad:** Italiana
 **Talento:** Juego Limpio
 
-## Información como Futbolista:
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Jueza Superma, Justicia
 **Afinidad de Espíritu Guerrero:** Bosque

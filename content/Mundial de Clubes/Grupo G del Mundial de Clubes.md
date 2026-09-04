@@ -1,8 +1,3 @@
----
-dg-publish: true
-title: Grupo G del Mundial de Clubes
----
-
 ### Tabla de Resultados
 
 |         Equipo         |  V  |  E  |  D  | GF  | GC  | DG  | Puntos |

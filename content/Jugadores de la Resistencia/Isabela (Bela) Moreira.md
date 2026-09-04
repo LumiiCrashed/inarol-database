@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Isabela (Bela) Moreira
----
-
-![[Isabela S3.jpg|200]]
+## Información Personal
 
 ***Alegre y juguetona, es una lateral con una proyección enorme. Recién salida del Flamengo, el Valencia logró llevársela tras apostar fuerte con una buena oferta. Es muy jugona y sus regates rivalizan con los de muchos extremos.***
 
@@ -15,6 +10,8 @@ title: Isabela (Bela) Moreira
 **Equipos:** [[Flamengo]], [[Valencia CF]]
 **Nacionalidad:** Brasileña
 **Talento:** Ninguno
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Ninguno
 **Afinidad de Espíritu Guerrero:** Ninguno
@@ -31,3 +28,9 @@ title: Isabela (Bela) Moreira
 
 **Supertácticas Propias:**
 - Ninguna
+
+
+## Atuendos:
+
+Ropa Casual
+![[Isabela S3.jpg|200]]

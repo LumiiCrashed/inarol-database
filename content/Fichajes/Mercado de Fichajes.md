@@ -1,8 +1,3 @@
----
-dg-publish: true
-title: Mercado de Fichajes
----
-
 ### Mercado del Mundial de Clubes
 
 - [[Mateus Guerreiro ⭐]] firma por el [[Real Madrid]] procediente del [[Manchester United]] por 110.000.000€ fijos + 20.000.000€ en variables.

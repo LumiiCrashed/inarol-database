@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Ludwig Neumann ⭐
----
-
-![[Ludwig S3.jpg|200]]
+## Información Personal:
 
 ***El maestro de la batuta vive su vida a los acordes de los grandes compositores clásicos. Su juego en el campo refleja su propia personalidad, jugando como el compositor del propio partido, construyendo una sinfonía de balón que axfisia cualquier intento de oposición.***
 
@@ -15,6 +10,8 @@ title: Ludwig Neumann ⭐
 **Equipos:** [[Paris Saint-Germain]]
 **Nacionalidad:** Alemana
 **Talento:** Preludio Mortal (+ Poder si es la base de una cadena)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Escaldo Divino, Bragi
 **Afinidad de Espíritu Guerrero:** Bosque
@@ -32,3 +29,9 @@ title: Ludwig Neumann ⭐
 
 **Supertácticas Propias:**
 - Canto Eterno (Ofensiva): El campo se vuelve impracticable por los canto de los ángeles que vuelan desde la defensa para impedir que se bloquee.
+
+
+## Atuendos:
+
+Ropa Formal
+![[Ludwig S3.jpg|200]]

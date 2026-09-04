@@ -1,6 +1,3 @@
----
-title: InaRol Database
----
 # ***Bienvenido al Índice de la Base de Datos del Inarol. Esta página sirve como hipervínculo entre las diferentes secciones de la misma.***
 
 ## La Resistencia

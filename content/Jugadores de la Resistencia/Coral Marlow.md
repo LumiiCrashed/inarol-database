@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Coral Marlow
----
-
-![[Coral S3.jpg|200]]
+## Información Básica:
 
 ***DESCRIPCIÓN***
 
@@ -16,11 +11,12 @@ title: Coral Marlow
 **Nacionalidad:** Australiana
 **Talento:** Ninguno
 
+## Información de Futbolista:
+
 **Espíritu Guerrero:** Guardiana del Coral
 **Afinidad de Espíritu Guerrero:** Montaña
 **Técnica de EG:** Lanza de Coral (Regate)
 **Técnica de Armadura:** ???
-
 
 **Supertécnicas Individuales:**
 - Patada Canguro (Regate, Montaña)
@@ -31,3 +27,9 @@ title: Coral Marlow
 
 **Supertácticas Propias:**
 - Ninguna
+
+
+## Atuendos:
+
+Ropa Deportiva:
+![[Coral S3.jpg|200]]

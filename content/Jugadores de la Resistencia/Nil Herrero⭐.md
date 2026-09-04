@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Nil Herrero⭐
----
-
-![[Nil S3.jpg|170]]
+## Información Personal:
 
 ***Tras superar totalmente una dura lesión después del mundial sub-18, subió al primer equipo del Barcelona por falta de efectivos. Poco tiempo después se adueñó del medio del campo de su equipo, siendo ahora uno de los capitanes del mismo. Siempre cierra la puerta a abandonar el club culé, afirmando que solo jugaría para ellos.***
 
@@ -15,6 +10,8 @@ title: Nil Herrero⭐
 **Equipos:** [[FC Barcelona]]
 **Nacionalidad:** Española
 **Talento:** Fútbol Total (Ocupa la posición libre)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Caballero Sagrado, Saint Jordi
 **Afinidad de Espíritu Guerrero:** Fuego
@@ -32,3 +29,9 @@ Ninguna
 
 **Supertácticas Propias:**
 - Tempo Absoluto (Ofensiva): Triangula rápidamente entre todo el equipo para llegar al área rival.
+
+
+## Atuendos:
+
+Ropa Casual
+![[Nil S3.jpg|170]]

@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Harmony Aurias ⭐
----
-
-![[Harmony S3.jpg|175]]
+## Información Personal
 
 ***Una joven multimillonaria excéntrica conocida en el mundo del fútbol por ser la fundadora de la red Social [[Golden Void]]. En el campo cambió el frente de ataque por la zaga, pero eso no ha hecho que sus brutales disparos dejen de causar Caos en las porterías rivales.***
 
@@ -15,6 +10,8 @@ title: Harmony Aurias ⭐
 **Equipos:** [[Bodo-Glimt]]
 **Nacionalidad:** Japonesa, Inglesa
 **Talento:** Ceniza Dorada (Anula efectos negativos de talentos aliados en la 2ª parte si se va perdiendo.)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Ente Renacido, Caos \[[[Espíritu Artificial]], Renacido\]
 **Afinidad de Espíritu Guerrero:** Fuego
@@ -38,7 +35,16 @@ title: Harmony Aurias ⭐
 **Supertácticas Propias:**
  - Ariete de Guerra (Ofensiva): Cinco jugadores defensivos avanzan como un ariete hacia adelante con el balón en el medio.
 
-**Otros Papeles:**
+
+## Información Adicional:
+
+**Trabajos fuera del fútbol:**
 - CEO de [[Golden Void]]
 - Accionista (35%) en [[AuriasCorp]]
+
+
+## Atuendos:
+
+Ropa Casual
+![[Harmony S3.jpg|175]]
 

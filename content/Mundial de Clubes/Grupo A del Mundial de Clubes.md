@@ -1,9 +1,5 @@
----
-dg-publish: true
-title: Grupo A del Mundial de Clubes
----
 
-### Tabla de Resultados
+###Tabla de Resultados
 
 |        Equipo        |  V  |  E  |  D  | GF  | GC  | DG  | Puntos |
 | :------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :----: |

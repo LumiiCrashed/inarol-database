@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Gwen Blades
----
-
-![[Gwen S3.jpg|200]]
+## Información Personal:
 
 ***La ex-canterana del Chelsea decidió dejar Inglaterra en busca de nuevas sensaciones en el fútbol... y muchos dicen que también fuera de este. No es la jugadora más limpia, pero ahora ya no es por gusto, sino porque a veces se motiva demasiado.***
 
@@ -15,6 +10,8 @@ title: Gwen Blades
 **Equipos:** [[VfB Stuttgart]]
 **Nacionalidad:** Inglesa
 **Talento:** Ninguno
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Ente Primario DF \[[[Espíritu Artificial]], Primera Generación]
 **Afinidad de Espíritu Guerrero:** Fuego
@@ -31,3 +28,9 @@ title: Gwen Blades
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Casual
+
+![[Gwen S3.jpg|200]]

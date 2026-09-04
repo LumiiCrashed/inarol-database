@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Rocío (Roc) Featherfly
----
-
-![[Roc S3.jpg|200]]
+## Información Personal:
 
 ***Joven jugadora que ha cambiado las frías montañas de Hokkaido por el campo del País Vasco para criar a sus aves rapaces, las cuales pueden verse de vez en cuando sobrevolando los campos de fútbol en los que juega. Las malas lenguas dicen que se comunica con éstas para recibir información del equipo rival.***
 
@@ -15,6 +10,8 @@ title: Rocío (Roc) Featherfly
 **Equipos:** [[Real Sociedad]]
 **Nacionalidad:** Japonesa
 **Talento:** Ojo de Halcón (- Probabilidad de Falta)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Vigilante de los Vientos, Harpía
 **Afinidad de Espíritu Guerrero:** Aire
@@ -33,3 +30,8 @@ title: Rocío (Roc) Featherfly
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Casual
+![[Roc S3.jpg|200]]

@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Oliver Therion
----
-
-![[Oliver S3.jpg|200]]
+## Información Personal:
 
 ***DESCRIPCIÓN***
 
@@ -15,6 +10,8 @@ title: Oliver Therion
 **Equipos:** [[SL Benfica]]
 **Nacionalidad:** Japonés
 **Talento:** Núcleo Incandescente (+ Velocidad al robar.)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Ninguno
 **Afinidad de Espíritu Guerrero:** Ninguno
@@ -32,3 +29,8 @@ title: Oliver Therion
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Casual
+![[Oliver S3.jpg|200]]

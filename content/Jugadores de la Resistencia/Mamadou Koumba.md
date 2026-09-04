@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Mamadou Koumba
----
-
-![[Mamadou S3.jpg|200]]
+## Información Personal:
 
 ***Empezó a jugar al deporte rey hace cuatro años en un instituto japonés simplemente por el hecho de buscar amigos. Incluso a día de hoy mantiene el contacto con quienes fueron sus primeras verdaderas amistades, aunque en el campo se vuelve un demonio físico por noventa minutos que solo entiende de perseguir la victoria con todas sus fuerzas.***
 
@@ -15,6 +10,8 @@ title: Mamadou Koumba
 **Equipos:** [[Olympique Lyonnais]]
 **Nacionalidad:** Costamarfileña
 **Talento:** Ninguno
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Demonio de Tres Cabezas, Kojin
 **Afinidad de Espíritu Guerrero:** Fuego
@@ -33,3 +30,9 @@ title: Mamadou Koumba
 
 **Supertácticas Propias:**
 - Ninguna
+
+
+## Atuendos:
+
+Ropa Casual
+![[Mamadou S3.jpg|200]]

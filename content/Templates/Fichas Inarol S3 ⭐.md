@@ -1,8 +1,3 @@
----
-dg-publish: true
-title: Fichas Inarol S3 ⭐
----
-
 ## Información Básica:
 
 ***DESCRIPCIÓN***
@@ -16,7 +11,7 @@ title: Fichas Inarol S3 ⭐
 **Nacionalidad:**
 **Talento:**
 
-## Información de Jugador:
+## Información de Futbolista:
 
 **Espíritu Guerrero:**
 **Afinidad de Espíritu Guerrero:**

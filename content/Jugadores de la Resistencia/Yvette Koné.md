@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Yvette Koné
----
-
-![[Yvette S3.jpg|200]]
+## Información Personal:
 
 ***DESCRIPCIÓN***
 
@@ -15,6 +10,8 @@ title: Yvette Koné
 **Equipos:** [[Olympique Lyonnais]]
 **Nacionalidad:** Costamarfileña
 **Talento:** Ninguno
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Ninguno
 **Afinidad de Espíritu Guerrero:** Ninguno
@@ -31,3 +28,8 @@ title: Yvette Koné
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Casual
+![[Yvette S3.jpg|200]]

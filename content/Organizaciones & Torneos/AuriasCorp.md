@@ -1,8 +1,3 @@
----
-dg-publish: true
-title: AuriasCorp
----
-
 Macrocorporación dueña de empresas de todo tipo.
 
 ### **Accionariado:**
