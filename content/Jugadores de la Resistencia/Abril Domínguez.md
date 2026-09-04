@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Abril Domínguez
----
-
-![[Abril S3.jpg|200]]
+## Información Personal:
 
 ***Esta joven sevillana compagina fútbol y videojuegos desde que era enana. Quizá esa capacidad de derrotar a Ganon o Bowser mientras participa en un rondo es la que hace que vea el fútbol en cámara lenta. O quizá sea la que hace que nunca termine de explotar su talento latente.***
 
@@ -21,6 +16,7 @@ title: Abril Domínguez
 **Técnica de EG:** Filtración Luminosa (Regate)
 **Técnica de Armadura:** ???
 
+## Información de Futbolista:
 
 **Supertécnicas Individuales:**
 - Onda de Geocontrol N2 (Defensa, Montaña)
@@ -33,3 +29,7 @@ title: Abril Domínguez
 **Supertácticas Propias:**
 - Ninguna
 
+## Atuendos:
+
+Ropa Casual
+![[Abril S3.jpg|200]]

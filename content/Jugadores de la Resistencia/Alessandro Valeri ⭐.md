@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Alessandro Valeri ⭐
----
-
-![[Alessandro S3.jpg|200]]
+## Información Personal:
 
 ***La joven perla de la cantera rossonera escaló hasta jugar en el primer equipo tras el mundial Sub-18, donde demostró un carácter distinto al ultradefensivo de la liga italiana: es un defensor con garra, que se atreve a ir al duelo contra los jugadores en lugar de esperarlos y ya. Sigue siendo tan galán como lo era antes, tal vez incluso más, atrayendo a las damas... y a algunos caballeros.***
 
@@ -15,6 +10,8 @@ title: Alessandro Valeri ⭐
 **Equipos:** [[AC Milan]]
 **Nacionalidad:** Italiana
 **Talento:** Juego Limpio
+
+## Información como Futbolista:
 
 **Espíritu Guerrero:** Jueza Superma, Justicia
 **Afinidad de Espíritu Guerrero:** Bosque
@@ -31,3 +28,9 @@ title: Alessandro Valeri ⭐
 
 **Supertácticas Propias:**
 - Ninguna
+
+
+## Atuendos:
+
+Ropa Casual:
+![[Alessandro S3.jpg|200]]

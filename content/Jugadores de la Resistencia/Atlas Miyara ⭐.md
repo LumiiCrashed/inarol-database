@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Atlas Miyara ⭐
----
-
-![[Atlas S3.jpg|200]]
+## Información Personal:
 
 ***Un líder nato de la defensa que combina tierra y mar para bloquear cualquier tipo de ataque. Su personalidad guerrera y casi militar le ha hecho ganarse en Italia el apodo de "El Sargento". A pesar de su fama, sigue siendo el mismo joven de Okinawa de siempre.***
 
@@ -21,6 +16,7 @@ title: Atlas Miyara ⭐
 **Técnica de EG:** Gema de la Marea (Bloqueo)
 **Técnica de Armadura:** ???
 
+## Información de Futbolista:
 
 **Supertécnicas Individuales:**
 - Fortaleza Shuri G5 (Bloqueo, Montaña)
@@ -36,3 +32,9 @@ title: Atlas Miyara ⭐
 
 **Supertácticas Propias:**
 - Ninguna
+
+
+## Atuendos:
+
+Ropa Casual
+![[Atlas S3.jpg|200]]

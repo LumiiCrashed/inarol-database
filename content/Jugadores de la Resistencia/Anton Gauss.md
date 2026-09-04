@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Anton Gauss
----
-
-![[Anton S3.jpg|169]]
+## Información Personal:
 
 ***Este calculador defensa es capaz de manipular los patrones de juego de todos los jugadores a la vez, y obtener la estrategia óptima de defensa. No arriesga ni deja el resultado al azar, maximiza las opciones de victoria desde la zaga con los sentimientos de una calculadora.***
 
@@ -15,6 +10,8 @@ title: Anton Gauss
 **Equipos:** [[Bayern de Múnich]]
 **Nacionalidad:** Alemana
 **Talento:** Factorización Compleja (+ Potencia contra Supertécnicas Combinada)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Musa Celestial, Urania
 **Afinidad de Espíritu Guerrero:** Aire
@@ -33,3 +30,7 @@ title: Anton Gauss
 **Supertácticas Propias:**
 - Mapa de Calor (Defensiva): Dirige a los compañeros sabiendo hacia dónde se moverán los rivales para robar el balón. Es más efectiva a más información tengas sobre los rivales.
 
+## Atuendos:
+
+Ropa Casual
+![[Anton S3.jpg|180]]

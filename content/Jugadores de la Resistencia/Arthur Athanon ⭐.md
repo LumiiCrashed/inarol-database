@@ -1,10 +1,4 @@
----
-dg-publish: true
-title: Arthur Athanon ⭐
----
-
-
-![[Arthur S3.jpg|200]]
+## Información Personal:
 
 ***La joven joya nipona descubierta por el Real Madrid, destacando por su capacidad de independencia en el campo, que le hacen clave a la hora de destrabar partidos. No suele jugar de titular por una cierta falta de consistencia, pero está ahí para salir a resolver situaciones desesperadas con medidas desesperadas.***
 
@@ -16,6 +10,8 @@ title: Arthur Athanon ⭐
 **Equipos:** [[Real Madrid]]
 **Nacionalidad:** Japonesa
 **Talento:** Déspota (- Poder técnicas combinadas, + Poder técnicas básicas)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Rey de los Héroes, Gilgamesh
 **Afinidad de Espíritu Guerrero:** Montaña
@@ -33,3 +29,9 @@ title: Arthur Athanon ⭐
 - Colisionador Caótico (Tiro, Fuego, 2J) \[[[Harmony Aurias ⭐]]]
 
 **Supertácticas Propias:**
+- Ninguna
+
+## Atuendos:
+
+Ropa Casual
+![[Arthur S3.jpg|200]]

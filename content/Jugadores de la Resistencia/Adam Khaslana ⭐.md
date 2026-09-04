@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Adam Khaslana ⭐
----
-
-![[Adam S3.jpg|180]]
+## Información Personal:
 
 ***El incansable defensa nipón que ha logrado convertirse en la peor pesadilla de los extremos de la Serie A, aprendió de la escuela del Catenaccio y se volvió en un demonio del marcaje con piernas para saltar al contraataque de inmediato.***
 
@@ -21,6 +16,7 @@ title: Adam Khaslana ⭐
 **Técnica de EG:** Amanecer (Defensa)
 **Técnica de Armadura:**
 
+## Información de Futbolista:
 
 **Supertécnicas Individuales:**
 - Llamarada de Xifos (Bloqueo, Fuego)
@@ -34,3 +30,8 @@ title: Adam Khaslana ⭐
 **Supertácticas Propias:**
 - Contrataque Catenaccio (Defensiva): Rodea a los rivales y roba el balón. De un pelotazo, monta una contra letal.
 - Virtuoso Volcánico (Ofensiva): Combina la batuta del Virtuoso con el fuego del un volcán para dirigir los pases hacia la victoria. La realiza junto a [[Camael Goldenwind]]
+
+## Atuendos:
+
+Ropa Casual:
+![[Adam S3.jpg|180]]

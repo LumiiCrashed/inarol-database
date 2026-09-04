@@ -3,7 +3,7 @@ dg-publish: true
 title: Caleb Lawson
 ---
 
-![[Caleb S3.jpg|200]]
+
 
 ***A pesar de cambiar la soleada Australia por Inglaterra, este jugador sigue visitando el mar hasta en invierno. Hay quien dice que sus disparos tan mecánicamente precisos provienen de sesiones de nado en las frías aguas de Liverpool.***
 
@@ -15,6 +15,8 @@ title: Caleb Lawson
 **Equipos:** [[Everton FC]]
 **Nacionalidad:** Australiana
 **Talento:** Hidroperforación (+ Aturdimiento)
+
+## Información de Futbolista
 
 **Espíritu Guerrero:** Dragón Marino, Leviatán.
 **Afinidad de Espíritu Guerrero:** Aire
@@ -33,3 +35,7 @@ title: Caleb Lawson
 **Supertácticas Propias:**
 - Ninguna.
 
+## Atuendos:
+
+Ropa Deportiva:
+![[Caleb S3.jpg|200]]
