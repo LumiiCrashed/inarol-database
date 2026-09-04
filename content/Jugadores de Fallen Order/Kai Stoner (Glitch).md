@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Kai Stoner (Glitch)
----
-
-![[Glitch S3.jpg|200]]
+## Información Personal:
 
 ***El menor de los hermanos Stoner, recibió poder por parte de Fallen Order en su estancia en prisión. Ahora ha decidido ser aún más agresivo para vengarse de aquellos que intentaron detener los planes de sus maestros.***
 
@@ -14,6 +9,8 @@ title: Kai Stoner (Glitch)
 **Equipos:** [[First Order, Fallen Order]]
 **Nacionalidad:** Inglesa
 **Talento:** Ninguno
+
+## Información de Jugador:
 
 **Espíritu Guerrero:** Espíritu Errante, Glitch \[[[Espíritu Artificial]], Segunda Generación\]
 **Afinidad de Espíritu Guerrero:** Bosque
@@ -31,3 +28,8 @@ title: Kai Stoner (Glitch)
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Casual
+![[Glitch S3.jpg|200]]

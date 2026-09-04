@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Adriano Valente (Power)
----
-
-![[Power S3.jpg|170]]
+## Información Personal:
 
 ***Misterioso y serio, Adriano estuvo infiltrado secretamente en las filas del Real Madrid durante años, siendo un agente doble a favor de Fallen Order. Es el capitán de los Beast Soldiers.***
 
@@ -15,6 +10,8 @@ title: Adriano Valente (Power)
 **Equipos:** [[Real Madrid]]/ [[Beast Soldiers, Fallen Order]]
 **Nacionalidad:** Brasileña
 **Talento:** Impasible (Aumenta la potencia de los bloqueos del equipo)
+
+## Información de Jugador:
 
 **Espíritu Guerrero:** Rey Gerudo, Ganondorf $\rightarrow$ Bestia de las Tinieblas, Ganon.  \[[[Espíritu Artificial]], Especial\]
 **Afinidad de Espíritu Guerrero:** Montaña
@@ -32,3 +29,9 @@ title: Adriano Valente (Power)
 
 **Supertácticas Propias:**
 - Por determinar
+
+
+## Atuendos:
+
+Ropa Estándar
+![[Power S3.jpg|200]]

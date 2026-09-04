@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Serenity Aurias (Essence)
----
-
-![[Serenity S3.jpg|200]]
+## Información Personal:
 
 ***Esta mujer tan calmada como poderosa es una de las armas definitiva de Fallen Order. Nadie sabe de dónde ha salido, ni el por qué de su sorprendente parecido con Harmony.***
 
@@ -15,6 +10,8 @@ title: Serenity Aurias (Essence)
 **Equipos:** [[Divine Fleet, Fallen Order]]
 **Nacionalidad:** Inglesa, Japonesa*
 **Talento:** "Sólo Brillo Yo." (Roba talentos positivos)
+
+## Información de Personaje:
 
 **Espíritu Guerrero:** Emperatriz de la Esencia, Clayia \[[[Espíritu Artificial]], Especial\]
 **Afinidad de Espíritu Guerrero:** Neutro
@@ -35,3 +32,8 @@ title: Serenity Aurias (Essence)
 
 **Supertácticas Propias:**
 - ***Por Determinar***
+
+## Atuendos:
+
+Ropa Casual (Armónico):
+![[Serenity S3.jpg|200]]

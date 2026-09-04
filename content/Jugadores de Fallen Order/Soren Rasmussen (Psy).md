@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Soren Rasmussen (Psy)
----
-
-![[Soren S3.jpg|200]]
+## Información Personal:
 
 ***Manipulador y controlador, es el segundo al mando en el equipo de Serenity. Este mediocentro se encarga de mantener controlados a los rebeldes que se niegan a obedecer al nuevo orden.***
 
@@ -15,6 +10,8 @@ title: Soren Rasmussen (Psy)
 **Equipos:** [[Divine Fleet, Fallen Order]]
 **Nacionalidad:** Danesa
 **Talento:** Hipnosis. (Hipnotiza a los rivales débiles.)
+
+## Información de Jugador:
 
 **Espíritu Guerrero:** Príncipe Desalmado, Raiel. \[[[Espíritu Artficial]], Especial\]
 **Afinidad de Espíritu Guerrero:** Neutro
@@ -32,3 +29,8 @@ title: Soren Rasmussen (Psy)
 
 **Supertácticas Propias:**
 - Por determinar
+
+## Atuendos: 
+
+Ropa Casual
+![[Soren S3.jpg|200]]

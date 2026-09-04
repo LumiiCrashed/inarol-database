@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Bárbara Peñas (Cerbera)
----
-
-![[Cerbera S3.jpg|200]]
+## Información Personal:
 
 ***Una mexicana criada en la pobreza y en medio del campo, fue reclutada por Fallen Order por su brutalidad. Ahora, es capaz de matar por Fallen Order.***
 
@@ -15,6 +10,8 @@ title: Bárbara Peñas (Cerbera)
 **Equipos:** [[Beast Soldiers, Fallen Order]]
 **Nacionalidad:** Mexicana
 **Talento:** Todoterreno Infernal (Aumenta el poder de las técnicas cuando juega fuera de su posición.)
+
+## Información de Jugador:
 
 **Espíritu Guerrero:** Can Infernal, Cerbero
 **Afinidad de Espíritu Guerrero:** Fuego
@@ -32,3 +29,8 @@ title: Bárbara Peñas (Cerbera)
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Ropa Casual
+![[Cerbera S3.jpg|200]]

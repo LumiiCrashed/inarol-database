@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Evan Grey (Astaroth)
----
-
-![[Astaroth S3.jpg|200]]
+## Información Personal:
 
 ***Capitán del primer equipo de Fallen Order en salir a la luz, logró escapar tras la derrota ante los jugadores de la Resistencia en el mundial sub-18. Las heridas en su cara le recuerdan siempre que pronto llegará la venganza.***
 
@@ -15,6 +10,8 @@ title: Evan Grey (Astaroth)
 **Equipos:** [[First Order, Fallen Order]]
 **Nacionalidad:** Estadounidense
 **Talento:** ???
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Oráculo Caído, Astaroth \[[[Espíritu Artficial]], Segunda Generación\]
 **Afinidad de Espíritu Guerrero:** Bosque
@@ -34,3 +31,8 @@ title: Evan Grey (Astaroth)
 **Supertácticas Propias:**
 
 - Ninguna
+
+## Atuendos:
+
+Ropa Casual:
+![[Astaroth S3.jpg|200]]

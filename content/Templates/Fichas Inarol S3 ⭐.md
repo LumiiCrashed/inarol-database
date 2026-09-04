@@ -3,7 +3,7 @@ dg-publish: true
 title: Fichas Inarol S3 ⭐
 ---
 
-***FOTO***
+## Información Básica:
 
 ***DESCRIPCIÓN***
 
@@ -15,6 +15,8 @@ title: Fichas Inarol S3 ⭐
 **Equipos:**
 **Nacionalidad:**
 **Talento:**
+
+## Información de Jugador:
 
 **Espíritu Guerrero:**
 **Afinidad de Espíritu Guerrero:**
@@ -30,4 +32,6 @@ title: Fichas Inarol S3 ⭐
 
 **Supertácticas Propias:**
 
+
+## Atuendos:
 

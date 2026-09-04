@@ -1,9 +1,4 @@
----
-dg-publish: true
-title: Michel Lissé (Sin Cara)
----
-
-![[Sin Cara S3.jpg|200]]
+## Información Personal:
 
 ***DESCRIPCIÓN***
 
@@ -15,6 +10,8 @@ title: Michel Lissé (Sin Cara)
 **Equipos:** [[First Order, Fallen Order]]
 **Nacionalidad:** Belga
 **Talento:** Entrada Sigilosa (Aumenta la velocidad sin balón y potencia los robos veloces)
+
+## Información de Futbolista:
 
 **Espíritu Guerrero:** Errante Silencioso, Sin Cara \[[[Espíritu Artficial]], Segunda Generación\]
 **Afinidad de Espíritu Guerrero:** Fuego
@@ -32,3 +29,8 @@ title: Michel Lissé (Sin Cara)
 
 **Supertácticas Propias:**
 - Ninguna
+
+## Atuendos:
+
+Apariencia de Fallen Order:
+![[Sin Cara S3.jpg|200]]
