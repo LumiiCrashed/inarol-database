@@ -2,7 +2,7 @@
 
 ## Jugadores:
 
-1) -
+1) [[Salawan Al-Amri (Behemoth)]]
 2) -
 3) -
 4) [[Adriano Valente (Power)]] \[C]
@@ -12,7 +12,7 @@
 8) -
 9) -
 10) -
-11) -
+11) [[Yasmin Naref (Anubis)]]
 
 ## **Resultados:**
 
