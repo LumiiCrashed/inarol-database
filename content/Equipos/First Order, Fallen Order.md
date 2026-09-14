@@ -5,7 +5,7 @@
 1) [[Sophie Stoner (Medusa)]]
 2) -
 3) [[Michel Lissé (Sin Cara)]]
-4) -
+4) [[Dorian Varga (Belial)]]
 5) -
 6) -
 7) [[Evan Grey (Astaroth)]] \[C\]

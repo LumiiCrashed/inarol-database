@@ -11,10 +11,10 @@
 
 ## Información de Futbolista:
 
-**Espíritu Guerrero:** Ninguno
-**Afinidad de Espíritu Guerrero:** Ninguno
-**Técnica de EG:** Ninguno
-**Técnica de Armadura:** Ninguno
+**Espíritu Guerrero:** Princesa de las Tejedoras, Hornet
+**Afinidad de Espíritu Guerrero:** Bosque
+**Técnica de EG:** Tormenta de Hilos (Defensa)
+**Técnica de Armadura:** ???
 
 
 **Supertécnicas Individuales:**

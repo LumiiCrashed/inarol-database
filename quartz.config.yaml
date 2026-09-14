@@ -36,11 +36,8 @@ configuration:
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        # Link color tuned to a muted olive-green so hyperlinks & cross-references
-        # (wikilinks, tags, backlinks, breadcrumbs...) read as colored text, not
-        # boxed/highlighted chips.
-        secondary: "#c2b95a"
-        tertiary: "#dcd58a"
+        secondary: "#7b97aa"
+        tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:

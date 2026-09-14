@@ -1,7 +1,3 @@
----
-dg-publish: true
-title: Zhial Cruz
----
 ## Información Personal:
 
 ***Una cosmopolita rebelde que no termina de encajar en ningún lugar, y que solo se deja dominar por Rose. A pesar de su corta altura, es una jugadora que busca el contacto y el confrontamiento cuando tiene el balón, combinándolo con su excepcional control de balón para lograr jugadas impredecibles.***
@@ -26,7 +22,7 @@ title: Zhial Cruz
 **Supertécnicas Individuales:**
 - Mundo Fragmentado (Regate, Neutro)
 - Rugido del Infinito G3 (Tiro, Aire)
-- Cristal Eterno N2 (Tiro, Montaña)
+- Cristal Eterno N3 (Tiro, Montaña)
 
 **Supertécnicas Combinadas:**
 - Ataque Omega (Tiro, Neutro, 3J) \[[[Cassia Augusta ⭐]], [[Maya Blythe]]\]

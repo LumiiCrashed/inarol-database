@@ -13,9 +13,9 @@
 
 ## Información de Futbolista:
 
-**Espíritu Guerrero:** Ninguno
-**Afinidad de Espíritu Guerrero:** Ninguno
-**Técnica de EG:** Ninguno
+**Espíritu Guerrero:** Guardián de Hallownest, Hollow Knight.
+**Afinidad de Espíritu Guerrero:** Neutro
+**Técnica de EG:** Explosión de Alma (Tiro)
 **Técnica de Armadura:** ???
 
 
