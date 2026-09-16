@@ -37,7 +37,7 @@ Lista de jugadores de La Resistencia por dorsal.
 35) [[Enoc Vigilis]]
 36) [[Mamadou Koumba]]
 37) [[Juan Rumayor]]
-38) MCD Chai
+38) [[Sciel Bernal]]
 39) [[Silas Grandfire]]
 40) [[Rocío (Roc) Featherfly]]
 41) [[Zhial Cruz]]
