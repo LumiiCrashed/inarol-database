@@ -25,6 +25,7 @@
 **Supertécnicas Combinadas:**
 - Cruce Explosivo (Regate, Fuego, 2J) \[Cualquier jugador]
 - Ángeles Caídos (Tiro, 2J, Neutro) \[[[Ludwig Neumann ⭐]]\]
+- Espada Bastarda (Tiro, Tierra, 2J) \[[[Rose Dorn ⭐]]
 
 **Supertácticas Propias:**
 - Ninguna

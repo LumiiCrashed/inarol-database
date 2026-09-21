@@ -7,7 +7,7 @@ title: Tatiana Wolf
 
 **Edad:** 20
 **Altura:** 1.82m
-**Trabajo:** Analista de datos en [[Golden Void]], contratada por [[AuriasCorp]]
+**Trabajo:** COO de [[Golden Void]], contratada por [[AuriasCorp]]
 **Nacionalidad:** Alemana
 **Lugar de Residencia:** ???
 
@@ -19,3 +19,6 @@ Ropa de Trabajo
 
 Traje de Baño
 ![[TatiPlaya.png|200]]
+
+Traje de Directiva
+![[TatianaPresentacion.png|200]]

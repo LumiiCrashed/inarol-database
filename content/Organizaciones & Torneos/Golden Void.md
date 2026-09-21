@@ -7,10 +7,8 @@ Golden Void es una empresa y red social asociada a [[AuriasCorp]], dedicada ínt
 
 **CEO:** [[Harmony Aurias ⭐]]
 
-**COO:** ???
+**COO:** [[Tatiana Wolf]]
 
-**Equipo de Análisis de Datos:** [[Xana Shade]], [[Tatiana Wolf]]
-
-**Equipo de Comentaristas y Periodistas Deportivos:**
+**Otros Trabajadores:** [[Xana Shade]], [[Ada Drauppnir]]
 
 #### **Patrocinios de Golden Void:**

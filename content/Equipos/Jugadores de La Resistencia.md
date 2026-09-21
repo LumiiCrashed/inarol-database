@@ -7,7 +7,7 @@ Lista de jugadores de La Resistencia por dorsal.
 5) [[Anton Gauss]]
 6) [[Maya Blythe]]
 7) [[Lucius Cage]]
-8) [[Rose Dorn]]
+8) [[Rose Dorn ⭐]]
 9) [[Luke Storm ⭐]]
 10) [[Cassia Augusta ⭐]]
 11) [[Arthur Athanon ⭐]]

@@ -9,7 +9,7 @@
 **Afinidad:** Aire
 **Equipos:** [[Paris Saint-Germain]]
 **Nacionalidad:** Francesa
-**Talento:** Hielo Cristalino
+**Talento:** Hielo Cristalino (Evita debuffs)
 
 ## Información de Futbolista:
 

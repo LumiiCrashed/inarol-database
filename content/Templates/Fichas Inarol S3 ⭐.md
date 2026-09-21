@@ -19,6 +19,7 @@
 **Técnica de Armadura:**
 
 
+
 **Supertécnicas Individuales:**
 
 
@@ -26,7 +27,6 @@
 
 
 **Supertácticas Propias:**
-
 
 ## Atuendos:
 
