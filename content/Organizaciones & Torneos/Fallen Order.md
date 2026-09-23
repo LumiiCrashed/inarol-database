@@ -6,7 +6,7 @@ La organización malvada que busca utilizar el poder del [[Espíritu Artificial]
 
 - [[First Order, Fallen Order]]
 - [[Equipo 2 de Fallen Order]]
-- [[Equipo 3 de Fallen Order]]
+- [[Roaring Scales, Fallen Order]]
 - [[Beast Soldiers, Fallen Order]]
 - [[Divine Fleet, Fallen Order]] 
 

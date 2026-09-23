@@ -13,7 +13,7 @@
 
 ## Información de Futbolista:
 
-**Espíritu Guerrero:** Bestia Original, Bahamuth \[[[Espíritu Artficial]], Segunda Generación\]
+**Espíritu Guerrero:** Bestia Original, Baehemoth \[[[Espíritu Artficial]], Segunda Generación\]
 **Afinidad de Espíritu Guerrero:** Montaña
 **Técnica de EG:** Colmillos Trituradores (Parada)
 **Técnica de Armadura:** Espíritu Rúnico $\rightarrow$ Runa Infinita (Parada, Montaña)
