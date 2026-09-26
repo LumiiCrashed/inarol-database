@@ -21,6 +21,7 @@
 
 **Supertécnicas Individuales:**
 - Semillas Explosivas N3 (Bloqueo, Bosque)
+- Círculo Sangriento (Defensa, Fuego)
 - Túnel Oscuro (Regate, Bosque)
 
 **Supertécnicas Combinadas:**

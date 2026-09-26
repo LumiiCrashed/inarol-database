@@ -2,9 +2,9 @@
 
 ## Jugadores:
 
-1) [[Pizarro Athanon (Greed)]]
+1) [[Pizarro Athanon (Greed)]] \[C]
 2) -
-3) -
+3) [[Scott Barton (Kaiba)]]
 4) -
 5) -
 6) -

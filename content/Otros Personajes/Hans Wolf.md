@@ -17,8 +17,8 @@
 
 ### **Como Futbolista:**
 
+**Posición:** Delantero Centro
 **Afinidad:** Bosque
-**Posición:** Delantero
 **Supertécnicas:**
 - Colmillos Feroces (Tiro, Fuego)
 

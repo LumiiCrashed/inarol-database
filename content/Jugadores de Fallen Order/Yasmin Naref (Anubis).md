@@ -13,7 +13,7 @@
 
 ## Información de Futbolista:
 
-**Espíritu Guerrero:** Señor de los Muertos, Anubis \[[[Espíritu Artficial]], Segunda Generación\]
+**Espíritu Guerrero:** Señor de los Muertos, Anubis \[[[Espíritu Artificial]], Segunda Generación\]
 **Afinidad de Espíritu Guerrero:** Bosque
 **Técnica de EG:** Colmillo del Inframundo (Tiro, Bosque)
 **Técnica de Armadura:** Baile Desértico $\rightarrow$  Baile de la Muerte (Regate, Bosque)

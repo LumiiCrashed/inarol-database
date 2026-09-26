@@ -13,7 +13,7 @@
 
 ## Información de Futbolista:
 
-**Espíritu Guerrero:** Oráculo Caído, Astaroth \[[[Espíritu Artficial]], Segunda Generación\]
+**Espíritu Guerrero:** Oráculo Caído, Astaroth \[[[Espíritu Artificial]], Segunda Generación\]
 **Afinidad de Espíritu Guerrero:** Bosque
 **Técnica de EG:** Ninguna
 **Técnica de Armadura:** Flecha Funesta $\rightarrow$ Aluvión Funesto (Tiro, Bosque) 

@@ -13,7 +13,7 @@
 
 ## Información de Futbolista:
 
-**Espíritu Guerrero:** Errante Silencioso, Sin Cara \[[[Espíritu Artficial]], Segunda Generación\]
+**Espíritu Guerrero:** Errante Silencioso, Sin Cara \[[[Espíritu Artificial]], Segunda Generación\]
 **Afinidad de Espíritu Guerrero:** Fuego
 **Técnica de EG:** Ninguna
 **Técnica de Armadura:** Máscara Fantasma $\rightarrow$ Máscara Espectro (Bloqueo, Fuego)

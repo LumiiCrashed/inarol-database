@@ -1,5 +1,9 @@
 # ***Bienvenido al Índice de la Base de Datos del Inarol. Esta página sirve como hipervínculo entre las diferentes secciones de la misma.***
 
+## Conceptos Clave:
+###### [[Espíritu Artificial]]
+
+
 ## La Resistencia
 ###### [[Jugadores de La Resistencia]]
 ###### [[Trabajadores de la Resistencia.]]

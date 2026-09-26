@@ -12,7 +12,7 @@
 #### JORNADA 1 
 
 **Flamengo 1 - 1 Bodø/Glimt** 
-El calor sofocó a los noruegos, pero las paradas de Vanja Dragovic y la contundencia de Harmony Aurias sostuvieron al equipo. Cassiopea Dawnford e Isabela Moreira lideraron el ataque brasileño para poner elprimer gol, pero Aurias logró igualar el marcador cerca del final. 
+El calor sofocó a los noruegos, pero las paradas de Vanja Dragovic y la contundencia de Harmony Aurias sostuvieron al equipo. Cassiopea Dawnford e Isabela Moreira lideraron el ataque brasileño para poner el primer gol, pero Aurias logró igualar el marcador cerca del final. 
 
 **PSG 6 - 0 Seoul FC**
 Exhibición del PSG ante un rival totalmente desbordado. Ludwig Neumann firmó tres tantos y repartió dos asistencias, sentenciando un partido de un solo color frente a un Seoul FC sin respuesta. 

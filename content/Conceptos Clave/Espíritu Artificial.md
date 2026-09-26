@@ -1,0 +1,2 @@
+
+Un tipo de Espíritu Guerrero desarrollado por [[Fallen Order]] y que se inserta en las personas sin necesidad de despertarlo. Aunque inicialmente eran prototipos, en la actualidad es casi imposible diferenciarlos de los Espíritus Guerreros naturales con métodos tradicionales; más allá de por su fuerza desmedida en los momentos clave.

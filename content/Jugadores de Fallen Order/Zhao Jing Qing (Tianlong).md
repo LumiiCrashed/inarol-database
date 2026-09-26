@@ -13,7 +13,7 @@
 
 ## Información de Futbolista:
 
-**Espíritu Guerrero:** Dragón de la Divinidad, Tianlong \[[[Espíritu Artficial]]]
+**Espíritu Guerrero:** Dragón de la Divinidad, Tianlong \[[[Espíritu Artificial]]]
 **Afinidad de Espíritu Guerrero:** Aire
 **Técnica de EG:** Garras Celestiales (Tiro)
 **Técnica de Armadura:** Estrella Oscura $\rightarrow$ Hipernova Oscura (Tiro Encadenado, Bosque)

@@ -13,7 +13,7 @@
 
 ## Información de Jugador:
 
-**Espíritu Guerrero:** Moira de la Muerte, Átropos \[[[Espíritu Artficial]], Tercera Generación]
+**Espíritu Guerrero:** Moira de la Muerte, Átropos \[[[Espíritu Artificial]], Tercera Generación]
 **Afinidad de Espíritu Guerrero:** Aire
 **Técnica de EG:** Cizaña de la Muerte (Defensa)
 **Técnica de Armadura:** Rayos del Juicio $\rightarrow$ Marca del Juicio (Defensa, Fuego)

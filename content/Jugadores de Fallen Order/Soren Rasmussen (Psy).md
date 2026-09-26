@@ -13,7 +13,7 @@
 
 ## Información de Jugador:
 
-**Espíritu Guerrero:** Príncipe Desalmado, Raiel. \[[[Espíritu Artficial]], Especial\]
+**Espíritu Guerrero:** Príncipe Desalmado, Raiel. \[[[Espíritu Artificial]], Especial\]
 **Afinidad de Espíritu Guerrero:** Neutro
 **Técnica de EG:** Cautivador de Almas (Regate, Neutro)
 **Técnica de Armadura:** Lanza Psíquica $\rightarrow$ Misil Psíquico (Tiro, Neutro)

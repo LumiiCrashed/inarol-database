@@ -11,7 +11,6 @@
 
 
 ## Apariencia:
-
 Ropa Casual:
 ![[Pauline S3.jpg|200]]
 

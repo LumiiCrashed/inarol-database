@@ -13,7 +13,7 @@
 
 ## Información de Futbolista:
 
-**Espíritu Guerrero:** Ladrón Maldito, Fafnir \[[[Espíritu Artficial]], Especial]
+**Espíritu Guerrero:** Ladrón Maldito, Fafnir \[[[Espíritu Artificial]], Especial]
 **Afinidad de Espíritu Guerrero:** Fuego
 **Técnica de EG:** Garra de la Gesta (Parada de Despeje)
 **Técnica de Armadura:** Cañón Astral $\rightarrow$ Rompedor de la Nada (Tiro de Contraataque, Aire)

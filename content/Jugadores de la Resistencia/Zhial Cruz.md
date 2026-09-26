@@ -26,7 +26,7 @@
 
 **Supertécnicas Combinadas:**
 - Ataque Omega (Tiro, Neutro, 3J) \[[[Cassia Augusta ⭐]], [[Maya Blythe]]\]
--  Espada Bastarda (Tiro, Tierra, 2J) \[[[Rose Dorn ⭐]]
+-  Espada Bastarda (Tiro, Tierra, 2J) \[[[Rose Dorn ⭐]]]
 
 **Supertácticas Propias:**
 - Ninguna.

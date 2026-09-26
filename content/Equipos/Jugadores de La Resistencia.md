@@ -11,7 +11,7 @@ Lista de jugadores de La Resistencia por dorsal.
 9) [[Luke Storm ⭐]]
 10) [[Cassia Augusta ⭐]]
 11) [[Arthur Athanon ⭐]]
-12)  [[Isabela (Bela) Moreira]]
+12) [[Isabela (Bela) Moreira]]
 13) [[Lucy Goodchain]]
 14) [[Ludwig Neumann ⭐]]
 15) [[Blake Highward]]

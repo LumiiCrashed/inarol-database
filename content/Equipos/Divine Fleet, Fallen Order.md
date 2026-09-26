@@ -12,7 +12,7 @@
 8) [[Soren Rasmussen (Psy)]]
 9) -
 10) [[Serenity Aurias (Essence)]] \[C\]
-11) -
+11) [[Elise Delacroix (Quipis)]]
 
 
 ## **Resultados:**

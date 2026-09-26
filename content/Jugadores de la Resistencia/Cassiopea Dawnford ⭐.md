@@ -23,7 +23,7 @@
 - Senda Estelar (Regate, Fuego)
 - Mil Destellos (Regate, Fuego)
 - Oráculo Estelar N4 (Tiro Largo, Fuego)
-- Nova Radiante (Tiro Largo, Fuego)
+- Nova Radiante G2 (Tiro Largo, Fuego)
 
 
 **Supertécnicas Combinadas:**

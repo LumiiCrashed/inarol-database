@@ -8,6 +8,12 @@
 **Nacionalidad:** Francesa
 **Lugar de Residencia:** Niza, Francia.
 
+## Como Jugadora.
+ **Posición:** ???
+ **Afinidad:** Aire
+ **Supertécnicas:** 
+- Torbellino Corrupto (Regate, Aire) 
+
 ## Atuendos:
 
 Traje de Nado:

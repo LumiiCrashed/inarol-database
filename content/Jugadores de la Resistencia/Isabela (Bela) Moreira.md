@@ -21,7 +21,7 @@
 
 **Supertécnicas Individuales:**
 - Barrera de Nubes (Bloqueo, Aire)
-- Super Elástico (Regate, Montaña)
+- Super Elástico N3 (Regate, Montaña)
 
 **Supertécnicas Combinadas:**
 - Ninguna

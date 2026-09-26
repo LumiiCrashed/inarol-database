@@ -13,7 +13,7 @@
 
 ## Información de Futbolista:
 
-**Espíritu Guerrero:** Demonio del Engaño, Belial \[[[Espíritu Artficial]], Segunda Generación]
+**Espíritu Guerrero:** Demonio del Engaño, Belial \[[[Espíritu Artificial]], Segunda Generación]
 **Afinidad de Espíritu Guerrero:** Montaña
 **Técnica de EG:** Ninguna
 **Técnica de Armadura:**

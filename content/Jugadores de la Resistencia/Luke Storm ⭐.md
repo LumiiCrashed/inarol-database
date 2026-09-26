@@ -28,7 +28,7 @@
 **Supertécnicas Combinadas:**
 - Espada de la Esperanza (Tiro, Fuego, 3J) \[[[David Gradsmith]],[[Adam Khaslana ⭐]]\]
 - Tormenta Dorada (Tiro, Fuego, 2J) \[[[Harmony Aurias ⭐]]\]
-- Pingüinos Salvajes Nº2 (Tiro, Bosque, 2J) \[[[Galbren Bloodstone]]\]
+- Pingüinos Salvajes (Tiro, Bosque, 2J) \[[[Galbren Bloodstone]]\]
 
 
 **Supertácticas Propias:**
