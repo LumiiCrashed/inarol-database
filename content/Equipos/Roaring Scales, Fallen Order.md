@@ -10,7 +10,7 @@
 6) -
 7) [[Zhao Jing Qing (Tianlong)]]
 8) -
-9) -
+9) [[Rumi Mitsuba (Rayquaza)]]
 10) -
 11) -
 
