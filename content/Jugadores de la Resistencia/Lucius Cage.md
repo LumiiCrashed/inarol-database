@@ -20,7 +20,7 @@
 
 
 **Supertécnicas Individuales:**
-- Convergencia Total (Regate, Bosque)
+- Convergencia Total N2 (Regate, Bosque)
 - Fulgor Fatal (Tiro, Bosque)
 
 **Supertécnicas Combinadas:**

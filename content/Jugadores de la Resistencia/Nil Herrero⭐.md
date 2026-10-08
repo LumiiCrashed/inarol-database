@@ -21,7 +21,7 @@
 
 **Supertécnicas Individuales:**
 - Muralla Dracónida (Bloqueo, Montaña)
-- ***SUPERTÉCNICA A CONOCER*** (Defensa)
+- Lanza del Paladín (Defensa, Fuego)
 - Reloj Perfecto (Regate, Bosque)
 
 **Supertécnicas Combinadas:**

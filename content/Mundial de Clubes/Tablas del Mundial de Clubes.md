@@ -72,3 +72,21 @@
 |  [[Manchester City]]  |  2  |  0  |  1  | 10  |  4  |  6  |   6    |
 |     [[FC Porto]]      |  1  |  1  |  1  |  3  |  2  |  1  |   4    |
 | [[Mamelodi Sundowns]] |  0  |  0  |  3  |  1  | 11  | -10 |   0    |
+
+## Octavos de Final del Mundial de Clubes:
+
+[[Bayern de Múnich]] vs [[Flamengo]]
+
+[[VfB Stuttgart]] vs [[Ajax FC]]
+
+[[AC Milan]] vs [[Manchester City]]
+
+[[Internazionale]] vs [[Olympique Lyonnais]]
+
+[[PSG]] vs [[Juventus]]
+
+[[FC Barcelona]] vs [[Real Madrid]]
+
+[[Al Ittihad]] vs [[Manchester United]]
+
+[[Liverpool FC]] vs [[SL Benfica]]
