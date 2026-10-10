@@ -8,7 +8,7 @@
 4) -
 5) -
 6) -
-7) -
+7) [[Mabel Code (Cypher)]]
 8) [[Soren Rasmussen (Psy)]]
 9) -
 10) [[Serenity Aurias (Essence)]] \[C\]
