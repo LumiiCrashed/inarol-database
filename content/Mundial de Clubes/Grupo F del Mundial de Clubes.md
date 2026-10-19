@@ -2,8 +2,8 @@
 
 |           Equipo           |  V  |  E  |  D  | GF  | GC  | DG  | Puntos |
 | :------------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :----: |
-|     [[VfB Stuttgart]]      |  3  |  0  |  0  |  7  |  2  |  5  |   9    |
-|      [[Real Madrid]]       |  2  |  1  |  0  | 12  |  2  | 10  |   6    |
+|     [[VfB Stuttgart]]      |  3  |  0  |  0  |  7  |  3  |  4  |   9    |
+|      [[Real Madrid]]       |  2  |  1  |  0  | 13  |  2  | 11  |   6    |
 | [[Nacional de Montevideo]] |  1  |  0  |  2  |  3  | 10  | -7  |   3    |
 |   [[Los Ángeles Galaxy]]   |  0  |  0  |  3  |  0  |  8  | -8  |   0    |
 
@@ -20,7 +20,7 @@ Casi se le complica al Stuttgart el debut en la segunda mitad. Rem fue el mejor 
 
 #### JORNADA 2
 
-**Real Madrid 0-2 Stuttgart**
+**Real Madrid 1-2 Stuttgart**
 No carbura la dupla Athanon-Guerreiro en su primer partido juntos. El gol tempranero de Neria de falta directa, y las tácticas de Seraphine Blythe anularon a los dos atacantes que no parecen entenderse.
 
 **Nacional 1-0 LA Galaxy**

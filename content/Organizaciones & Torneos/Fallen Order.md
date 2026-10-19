@@ -11,5 +11,3 @@ La organización malvada que busca utilizar el poder del [[Espíritu Artificial]
 - [[Divine Fleet, Fallen Order]] 
 
 
-## Altos Mandos de Fallen Order:
-

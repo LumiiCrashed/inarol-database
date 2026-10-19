@@ -26,7 +26,7 @@
 - Sombra del Alma G2 (Tiro, Bosque)
 
 **Supertécnicas Combinadas:**
-- Ninguna
+- Eclipse Onírico (Tiro, Bosque, 2J) \[[[Rem Nightwing]]]
 
 **Supertácticas Propias:**
 - Ninguna

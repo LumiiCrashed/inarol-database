@@ -3,7 +3,7 @@
 ***Tras superar totalmente una dura lesión después del mundial sub-18, subió al primer equipo del Barcelona por falta de efectivos. Poco tiempo después se adueñó del medio del campo de su equipo, siendo ahora uno de los capitanes del mismo. Siempre cierra la puerta a abandonar el club culé, afirmando que solo jugaría para ellos.***
 
 **Edad:** 21
-**Altura:** 1.80m
+**Altura:** 1.90m
 **Posición:** Pivote / Interior / Defensa Central
 **Pierna Hábil:** Diestra
 **Afinidad:** Montaña

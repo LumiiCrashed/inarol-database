@@ -34,7 +34,7 @@ Lista de jugadores de La Resistencia por dorsal.
 32) [[Mireia Flors]]
 33) [[Neria Shadorai]]
 34) [[Yvette Koné]]
-35) [[Enoc Vigilis]]
+35) [[Océane Vivier]]
 36) [[Mamadou Koumba]]
 37) [[Juan Rumayor]]
 38) [[Sciel Bernal]]

@@ -6,4 +6,4 @@
 
 ### Mercado post Mundial de Clubes
 - [[Cassiopea Dawnford ⭐]] firma por el [[Arsenal FC]] procediente de [[Flamengo]] por 50.000.000€
-- [[Cassia Augusta ⭐]] firma por el [[FC Barcelona]] procediente de [[AC Milan]] por 85.000.000€ (***Pendiente de Oficialidad en Rol***)
+- [[Cassia Augusta ⭐]] firma por el [[FC Barcelona]] procediente de [[AC Milan]] por 80.000.000€ (***Pendiente de Oficialidad en Rol***)

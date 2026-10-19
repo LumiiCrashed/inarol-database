@@ -11,7 +11,7 @@
 ### Encargados del Entrenamiento
 - [[Summer Brighton]]
 - [[Ada Drauppnir]]
-- [[Océane Vivier]]
+- [[Océane Vivier]]*
 
 ### Equipo Médico y Gestión de la Mansión
 - [[Skye Chronia]]

@@ -5,6 +5,7 @@
 
 
 ## La Resistencia
+[[La Resistencia]]
 ###### [[Jugadores de La Resistencia]]
 ###### [[Trabajadores de la Resistencia.]]
 

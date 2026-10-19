@@ -26,7 +26,7 @@
 - Eclipse Onírico G2 (Tiro, Bosque)
 
 **Supertécnicas Combinadas:**
-- Ninguna
+- Eclipse Onírico (Tiro, Bosque, 2J) \[[[Neria Shadorai]]]
 
 **Supertácticas Propias:**
 - Ninguna
