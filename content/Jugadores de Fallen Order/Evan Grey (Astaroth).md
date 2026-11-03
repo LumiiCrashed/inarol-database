@@ -36,3 +36,6 @@
 
 Ropa Casual:
 ![[Astaroth S3.jpg|200]]
+
+Armadura
+![[Astaroth Armadura.png|200]]

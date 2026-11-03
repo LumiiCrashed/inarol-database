@@ -9,6 +9,7 @@
 ###### [[Jugadores de La Resistencia]]
 ###### [[Trabajadores de la Resistencia.]]
 
+###### [[Entrenamiento de La Resistencia]]
 
 
 ## Fallen Order

@@ -16,7 +16,7 @@
 **Espíritu Guerrero:** Sirena Sombría, Verseida
 **Afinidad de Espíritu Guerrero:** Aire
 **Técnica de EG:** Tecnozap Oceánico (Bloqueo) 
-**Técnica de Armadura:** Torbellino Corrupto $\rightarrow$ Sirena Corrupta (Regate, Neutro)
+**Técnica de Armadura:** Corazón Oscuro $\rightarrow$ Corazón Infinito (Tiro Largo, Neutro)
 
 **Supertécnicas Individuales:**
 - Torbellino Corrupto (Regate, Aire)
@@ -31,4 +31,10 @@
 
 Traje de Nado:
 ![[Océane S3.jpg|200]]
+
+EG:
+![[Océane Invocando.png|200]]
+
+Armadura:
+![[Océane Armadura.png|200]]
 

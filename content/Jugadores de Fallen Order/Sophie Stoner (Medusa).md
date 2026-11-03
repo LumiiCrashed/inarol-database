@@ -33,3 +33,6 @@
 
 Ropa Casual
 ![[Medusa S3.jpg|200]]
+
+Armadura:
+![[Medusa Armadura.png|200]]
